@@ -1,4 +1,4 @@
-var names = ['Sir Zia', 'Sir Zeeshan', 'Sir Danyal'];
-console.log(names[0]);
-console.log(names[1]);
-console.log(names[2]);
+var myname = "Aqeel Shahzad";
+var currentdte = new Date();
+console.log("//\t My name is Aqeel Shahzad -> \n\t".concat(myname));
+console.log("//\t Current date is -> \n\t".concat(currentdte));

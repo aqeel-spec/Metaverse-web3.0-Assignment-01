@@ -1,4 +1,4 @@
-let names: String[] = ['Sir Zia', 'Sir Zeeshan', 'Sir Danyal'];
-console.log(names[0]);
-console.log(names[1]);
-console.log(names[2]);
+let myname: String = "Aqeel Shahzad";
+let currentdte: any = new Date();
+console.log(`//\t My name is Aqeel Shahzad -> \n\t${myname}`);
+console.log(`//\t Current date is -> \n\t${currentdte}`);

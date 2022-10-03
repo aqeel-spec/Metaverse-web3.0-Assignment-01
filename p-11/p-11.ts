@@ -1,6 +1,4 @@
-let names: String[] = ['Sir Zia shb', 'Sir Zeeshan shb', 'Sir Danyal shb'];
-let msg: any = 'Hello, ' + names ; 
-
-console.log(msg[0]);
-//console.log(names[1]);
-//console.log(names[2]);
+let names: String[] = ['Sir Zia', 'Sir Zeeshan', 'Sir Danyal'];
+console.log(names[0]);
+console.log(names[1]);
+console.log(names[2]);
